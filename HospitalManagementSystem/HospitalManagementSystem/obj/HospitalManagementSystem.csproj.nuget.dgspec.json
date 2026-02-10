@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net\\TopBrains_Assignment\\swapping\\Swapping\\Swapping.csproj": {}
+    "D:\\.Net\\TopBrains_Assignment\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\.Net\\TopBrains_Assignment\\swapping\\Swapping\\Swapping.csproj": {
+    "D:\\.Net\\TopBrains_Assignment\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\TopBrains_Assignment\\swapping\\Swapping\\Swapping.csproj",
-        "projectName": "Swapping",
-        "projectPath": "D:\\.Net\\TopBrains_Assignment\\swapping\\Swapping\\Swapping.csproj",
+        "projectUniqueName": "D:\\.Net\\TopBrains_Assignment\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
+        "projectName": "HospitalManagementSystem",
+        "projectPath": "D:\\.Net\\TopBrains_Assignment\\HospitalManagementSystem\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
         "packagesPath": "C:\\Users\\saryu\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\TopBrains_Assignment\\swapping\\Swapping\\obj\\",
+        "outputPath": "D:\\.Net\\TopBrains_Assignment\\HospitalManagementSystem\\HospitalManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
