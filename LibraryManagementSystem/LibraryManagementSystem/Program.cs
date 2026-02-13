@@ -1,68 +1,71 @@
-﻿using System ;
-using System.Collections.Generic ; 
-using System.Linq ; 
-public class Book
-{
-    public string ISBN { get; set; }
-    public string Title { get; set; }
-    public string Author { get; set; }
-    public string Genre { get; set; }
-    public bool IsAvailable { get; set; }
-}
+﻿// using System ;
+// using System.Collections.Generic ; 
+// using System.Linq ; 
+// public class Book
+// {
+//     public string ISBN { get; set; }
+//     public string Title { get; set; }
+//     public string Author { get; set; }
+//     public string Genre { get; set; }
+//     public bool IsAvailable { get; set; }
+// }
 
-// Generic catalog class
-public class Catalog<T> where T : Book
-{
-    private List<T> _items = new List<T>();
-    private HashSet<string> _isbnSet = new HashSet<string>();
-    private SortedDictionary<string, List<T>> _genreIndex = new SortedDictionary<string, List<T>>();
-    
-    // Add item with genre indexing
-    public bool AddItem(T item)
-    {
-        // TODO: Check ISBN uniqueness, add to list and genre index
-        if (_isbnset.Contains(item.ISBN))
-    {
-      return false ; 
-    }
+// // Generic catalog class
+// public class Catalog<T> where T : Book
+// {
+//     private List<T> _items = new List<T>();
+//     private HashSet<string> _isbnSet = new HashSet<string>();
+//     private SortedDictionary<string, List<T>> _genreIndex = new SortedDictionary<string, List<T>>();
 
-    _isbnSet.Add(item.ISBN) ; 
-    _items.Add(item) ; 
+//     // Add item with genre indexing
+//     public bool AddItem(T item)
+//     {
+//         // TODO: Check ISBN uniqueness, add to list and genre index
+//         if (_isbnset.Contains(item.ISBN))
+//     {
+//       return false ; 
+//     }
 
-    if (!_genereIndex.Contains(item.Genere))
-    {
-      _genereIndex[item.Genere] = new List<T>() ; 
+//     _isbnSet.Add(item.ISBN) ; 
+//     _items.Add(item) ; 
 
-    }
+//     if (!_genereIndex.Contains(item.Genere))
+//     {
+//       _genereIndex[item.Genere] = new List<T>() ; 
 
-    _genereIndex[item.Genere].Add[item] ; 
-    return true ; 
-      
-    
+//     }
 
-     
+//     _genereIndex[item.Genere].Add[item] ; 
+//     return true ; 
 
-    }
-    
-    // Get books by genre using indexer
-    public List<T> this[string genre]
-    {
-        get
-        {
-            // TODO: Return books by genre or empty list
-            if (_genereindex.Contains[genere])
-           {
-           return _genereindex[genere] ; 
-           }
 
-          return new List<T>() ; 
 
-       }
-    }
-    
-    // F  ind books using LINQ and lambda expressions
-    public IEnumerable<T> FindBooks(Func<T, bool> predicate)
-    {
-        // TODO: Use LINQ Where with predicate
-    }
-}
+
+
+//     }
+
+//     // Get books by genre using indexer
+//     public List<T> this[string genre]
+//     {
+//         get
+//         {
+//             // TODO: Return books by genre or empty list
+//             if (_genereindex.Contains[genere])
+//            {
+//            return _genereindex[genere] ; 
+//            }
+
+//           return new List<T>() ; 
+
+//        }
+//     }
+
+//     // F  ind books using LINQ and lambda expressions
+//     public IEnumerable<T> FindBooks(Func<T, bool> predicate)
+//     {
+//         // TODO: Use LINQ Where with predicate
+//         return _items.Where(predicate) ; 
+
+//     }
+// }
+

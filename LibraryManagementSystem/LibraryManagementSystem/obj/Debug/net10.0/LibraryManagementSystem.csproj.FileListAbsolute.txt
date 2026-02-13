@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.sourcelink.json
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.exe
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.deps.json
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.dll
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.pdb
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.dll
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\refint\LibraryManagementSystem.dll
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.pdb
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\ref\LibraryManagementSystem.dll
