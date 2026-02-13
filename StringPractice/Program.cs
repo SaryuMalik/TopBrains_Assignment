@@ -1,4 +1,4 @@
-﻿
+﻿//Counting Letters Digits and Special Characters 
 // using System ; 
 // class Program
 // {
@@ -21,7 +21,7 @@
 //   }
 // }
 
-
+//To check if the string contains other letters or not 
 // using System ;
 // class Program
 // {
@@ -47,7 +47,7 @@
 //   }
 // }
 
-
+//Checking For Valid Password or Invalid Password 
 // using System ; 
 // class Program
 // {
@@ -78,7 +78,7 @@
 //   }
 // }
 
-
+// Use oF Trim 
 // using System ;
 // class Program
 // {
@@ -92,7 +92,7 @@
 //   }
 // }
 
-
+// Checking of Palindrome 
 // using System ;
 
 // class Program
@@ -126,7 +126,7 @@
 //   }
 // }
 
-
+//How many words in a sentence 
 // using System ;
 // class Program
 // {
@@ -214,7 +214,7 @@
 // }
 
 
-
+// Reversing the wrod of the sentence 
 // using System ;
 // class Program
 // {
@@ -246,7 +246,7 @@
 
 
 
-
+// Use of Linq 
 // using System ;
 // using System.Collections.Generic ;
 // using System.Linq ;
@@ -273,7 +273,7 @@
 
 // }
 
-
+// Printing the strings from the List where String starts with Letter R 
 // using System ;
 // using System.Collections.Generic ; 
 
@@ -299,7 +299,7 @@
 // }
 
 
-
+// Starting with Dictionaries 
 // using System ;
 // using System.Collections.Generic ;
 // class Program
@@ -342,7 +342,7 @@
 //   }
 // }
 
-
+// Printing the Highest Value 
 // using System ;
 // using System.Collections.Generic ;
 // class Program
@@ -371,7 +371,7 @@
 //   }
 // }
 
-
+// Taking out the duplicates and unique values fromt the Dictionary 
 // using System ;
 // using System.Collections.Generic ; 
 // class Program
@@ -416,7 +416,7 @@
 //   }
 // }
 
-
+// Error Solving 
 // using System ;
 // using System.Collections.Generic ;
 // class Program
@@ -438,7 +438,7 @@
 //   }
 // }
 
-
+// Frequency of Each name 
 // using System;
 // using System.Collections.Generic;
 
@@ -470,38 +470,97 @@
 
 // }
 
+// Frequency of the numbers and Printing the numbers whose frequency is more than 1 . 
+// using System ;
+// using System.Collections.Generic ;
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     List<int> nums = new List<int>()
+// {
+//     10, 20, 10, 30, 20, 40, 50, 40
+// };
+//     Dictionary<int , int> frequency = new Dictionary<int , int>() ; 
 
-using System ;
-using System.Collections.Generic ;
-class Program
-{
-  static void Main(string[] args)
-  {
-    List<int> nums = new List<int>()
-{
-    10, 20, 10, 30, 20, 40, 50, 40
-};
-    Dictionary<int , int> frequency = new Dictionary<int , int>() ; 
+//     foreach(int value in nums)
+//     {
+//       if (frequency.ContainsKey(value))
+//       {
+//           frequency[value]++ ; 
+//       }
+//       else
+//       {
+//         frequency[value] = 1 ; 
+//       }
+//     }
 
-    foreach(int value in nums)
-    {
-      if (frequency.ContainsKey(value))
-      {
-          frequency[value]++ ; 
-      }
-      else
-      {
-        frequency[value] = 1 ; 
-      }
-    }
+//     foreach(var ans in frequency)
+//     {
+//       if (ans.Value > 1)
+//       {
+//         Console.WriteLine($"{ans.Key} -> {ans.Value}") ; 
+//       }
+//     }
 
-    foreach(var ans in frequency)
-    {
-      if (ans.Value > 1)
-      {
-        Console.WriteLine($"{ans.Key} -> {ans.Value}") ; 
-      }
-    }
+//   }
+// }
 
-  }
-}
+
+//Use of Built-In  Deligate - Action
+// using System ;
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Action<int>Print = a => Console.WriteLine(a) ; 
+//     Print(5) ; 
+//   }
+// }
+
+//use of Built In Deligate - Func 
+// using System ;
+
+// class Program
+// {
+//   static void Main(string[] args)
+//   {
+//     Func<int , int, int>product = (a , b) => (a*b) ;
+//     Console.WriteLine(product(5 , 6)) ; 
+//   }
+// }
+
+
+// Use of Event for payment success message 
+
+// using System ;
+// delegate void paymentHandle() ;
+
+// class Payment
+// {
+//    public event paymentHandle? PaymentDone ; 
+//    public void CompletePayment()
+//   {
+//     Console.WriteLine("-------Payment processing--------") ;
+//     PaymentDone?.Invoke() ; 
+//   }
+// }
+
+// class Program
+//   {
+
+//     static void PaymentMessage()
+//     {
+//       Console.WriteLine("Payment Done") ; 
+//     }
+//     static void Main()
+//     {
+//         Payment p = new Payment() ; 
+//         p.PaymentDone += PaymentMessage ; 
+
+//         p.CompletePayment() ; 
+//     }
+//   }
+
+
+
