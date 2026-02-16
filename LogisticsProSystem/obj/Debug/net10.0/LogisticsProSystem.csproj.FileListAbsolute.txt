@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.sourcelink.json
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\bin\Debug\net10.0\LogisticsProSystem.exe
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\bin\Debug\net10.0\LogisticsProSystem.deps.json
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\bin\Debug\net10.0\LogisticsProSystem.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\bin\Debug\net10.0\LogisticsProSystem.dll
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\bin\Debug\net10.0\LogisticsProSystem.pdb
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.dll
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\refint\LogisticsProSystem.dll
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.pdb
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\LogisticsProSystem.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\LogisticsProSystem\obj\Debug\net10.0\ref\LogisticsProSystem.dll

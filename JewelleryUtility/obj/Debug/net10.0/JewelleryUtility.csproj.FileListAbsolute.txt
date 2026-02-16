@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.sourcelink.json
+D:\.Net\TopBrains_Assignment\JewelleryUtility\bin\Debug\net10.0\JewelleryUtility.exe
+D:\.Net\TopBrains_Assignment\JewelleryUtility\bin\Debug\net10.0\JewelleryUtility.deps.json
+D:\.Net\TopBrains_Assignment\JewelleryUtility\bin\Debug\net10.0\JewelleryUtility.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\JewelleryUtility\bin\Debug\net10.0\JewelleryUtility.dll
+D:\.Net\TopBrains_Assignment\JewelleryUtility\bin\Debug\net10.0\JewelleryUtility.pdb
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.dll
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\refint\JewelleryUtility.dll
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.pdb
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\JewelleryUtility.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\JewelleryUtility\obj\Debug\net10.0\ref\JewelleryUtility.dll
