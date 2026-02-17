@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.sourcelink.json
+D:\.Net\TopBrains_Assignment\StringParadox\bin\Debug\net10.0\StringParadox.exe
+D:\.Net\TopBrains_Assignment\StringParadox\bin\Debug\net10.0\StringParadox.deps.json
+D:\.Net\TopBrains_Assignment\StringParadox\bin\Debug\net10.0\StringParadox.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\StringParadox\bin\Debug\net10.0\StringParadox.dll
+D:\.Net\TopBrains_Assignment\StringParadox\bin\Debug\net10.0\StringParadox.pdb
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.dll
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\refint\StringParadox.dll
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.pdb
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\StringParadox.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\StringParadox\obj\Debug\net10.0\ref\StringParadox.dll
