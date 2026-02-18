@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\bin\Debug\net10.0\ResultManagementSystem.exe
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\bin\Debug\net10.0\ResultManagementSystem.deps.json
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\bin\Debug\net10.0\ResultManagementSystem.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\bin\Debug\net10.0\ResultManagementSystem.dll
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\bin\Debug\net10.0\ResultManagementSystem.pdb
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.sourcelink.json
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.dll
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\refint\ResultManagementSystem.dll
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.pdb
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ResultManagementSystem.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\resultmanagementsystem\obj\Debug\net10.0\ref\ResultManagementSystem.dll

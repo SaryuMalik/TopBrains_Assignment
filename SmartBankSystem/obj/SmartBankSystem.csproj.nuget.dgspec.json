@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.Net\\TopBrains_Assignment\\resultmanagementsystem\\ResultManagementSystem.csproj": {}
+    "D:\\.Net\\TopBrains_Assignment\\SmartBankSystem\\SmartBankSystem.csproj": {}
   },
   "projects": {
-    "D:\\.Net\\TopBrains_Assignment\\resultmanagementsystem\\ResultManagementSystem.csproj": {
+    "D:\\.Net\\TopBrains_Assignment\\SmartBankSystem\\SmartBankSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.Net\\TopBrains_Assignment\\resultmanagementsystem\\ResultManagementSystem.csproj",
-        "projectName": "ResultManagementSystem",
-        "projectPath": "D:\\.Net\\TopBrains_Assignment\\resultmanagementsystem\\ResultManagementSystem.csproj",
+        "projectUniqueName": "D:\\.Net\\TopBrains_Assignment\\SmartBankSystem\\SmartBankSystem.csproj",
+        "projectName": "SmartBankSystem",
+        "projectPath": "D:\\.Net\\TopBrains_Assignment\\SmartBankSystem\\SmartBankSystem.csproj",
         "packagesPath": "C:\\Users\\saryu\\.nuget\\packages\\",
-        "outputPath": "D:\\.Net\\TopBrains_Assignment\\resultmanagementsystem\\obj\\",
+        "outputPath": "D:\\.Net\\TopBrains_Assignment\\SmartBankSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

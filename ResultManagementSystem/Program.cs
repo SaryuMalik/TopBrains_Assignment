@@ -1,5 +1,6 @@
 ﻿using System ;
-using System.Collections.Generic ; 
+using System.Collections.Generic ;
+
 
 
 class InvalidGpaException : Exception
@@ -101,7 +102,53 @@ class Program
     bool exit = false ; 
     while (!exit)
     {
+      Console.WriteLine("1 -> Display Ranking ") ; 
+      Console.WriteLine("2 -> Update Gpa ") ; 
+      Console.WriteLine("3 -> Add Student ") ; 
+      Console.WriteLine("4 ->Exit ") ; 
       
+      Console.WriteLine(" Enter the Choice : ") ; 
+      int choice = int.Parse(Console.ReadLine()) ; 
+      try{
+      switch(choice)
+      {
+        case 1 : 
+        utility.DisplayStudents() ; 
+        break ; 
+        case 2 : 
+        string id = Console.ReadLine() ; 
+        double gpa = double.Parse(Console.ReadLine()) ; 
+        utility.UpdateGpa(id , gpa) ; 
+        break ; 
+        case 3 : 
+        string newStudent = Console.ReadLine() ;
+        string[] studentarr = newStudent.Split(" ") ; 
+        
+          
+        Student stu = new Student ()
+        {
+          Id = studentarr[0] ,
+          Name = studentarr[1] ,
+          Gpa  = double.Parse(studentarr[2] )  
+        } ;
+
+        utility.AddStudent(stu) ; 
+        break ;
+
+        case 4 : 
+        Console.WriteLine("Thank you") ; 
+        exit = true ; 
+        break ; 
+        
+
+      }
+      }
+
+      catch(Exception ex)
+      {
+        Console.WriteLine(ex.Message) ; 
+      }
+
     }
   }
 }
