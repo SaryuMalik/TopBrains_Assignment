@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\DateAndTime\bin\Debug\net10.0\DateAndTime.exe
+D:\.Net\TopBrains_Assignment\DateAndTime\bin\Debug\net10.0\DateAndTime.deps.json
+D:\.Net\TopBrains_Assignment\DateAndTime\bin\Debug\net10.0\DateAndTime.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\DateAndTime\bin\Debug\net10.0\DateAndTime.dll
+D:\.Net\TopBrains_Assignment\DateAndTime\bin\Debug\net10.0\DateAndTime.pdb
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.sourcelink.json
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.dll
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\refint\DateAndTime.dll
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.pdb
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\DateAndTime.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\DateAndTime\obj\Debug\net10.0\ref\DateAndTime.dll

@@ -1,9 +1,9 @@
 ﻿using System ;
-using System.Collection.Generic ; 
+using System.Collections.Generic ; 
 
 class InvalidPriceException : Exception
 {
-  public InvalidpriceException(string msg) : base(msg) { } 
+  public InvalidPriceException(string msg) : base(msg) { } 
 }
 
 class DuplicateMedicineException : Exception
@@ -30,11 +30,11 @@ class Medicine
   public int ExpiryYear {get; set ; }
 }
 
-class MedicineUtilty
+class MedicineUtility
 {
    SortedDictionary<int, List<Medicine>> medicines = new SortedDictionary<int, List<Medicine>>();
 
-   public void AddMedicne (Medicine Medicine)
+   public void AddMedicine (Medicine Medicine)
   {
     if (Medicine.Price < 0 )
     {
@@ -63,7 +63,7 @@ class MedicineUtilty
   {
      foreach (var year in medicines)
     {
-      foreach(var m  in medicines[year])
+      foreach(var m  in year.Value)
       {
          Console.WriteLine($"Details: {m.Id} {m.Name} {m.Price} {m.ExpiryYear}");
       }
@@ -86,4 +86,60 @@ class MedicineUtilty
   }
 
 }
+
+class Program
+{
+  static void Main(string[] args)
+  {
+    MedicineUtility utility = new MedicineUtility() ; 
+    bool exit = false ; 
+    try{
+    while (!exit)
+    {
+      Console.WriteLine("1 -> Display Ranking ") ; 
+      Console.WriteLine("2 -> Update Gpa ") ; 
+      Console.WriteLine("3 -> Add Student ") ; 
+      Console.WriteLine("4 ->Exit ") ; 
+      
+      Console.WriteLine(" Enter the Choice : ") ; 
+      int choice = int.Parse(Console.ReadLine()) ;
+      switch (choice)
+        {
+          case 1 : 
+          utility.GetMedicine(); 
+          break ; 
+          case 2 : 
+          string id = Console.ReadLine() ; 
+          int newPrice = int.Parse(Console.ReadLine()) ; 
+          utility.UpdatedMedicinePrice(id , newPrice) ;
+          break ;
+          case 3 :
+          string newStudent = Console.ReadLine() ; 
+          string[] newStudent1 = newStudent.Split(" ") ; 
+          Medicine stu = new Medicine
+          {
+            Id = newStudent1[0] ,
+            Name = newStudent1[1] ,
+            Price = int.Parse(newStudent1[2]) 
+          };
+
+          utility.AddMedicine(stu) ;
+          break ;
+
+          case 4 : 
+          Console.WriteLine("Thank You") ; 
+          exit = true ; 
+          break ; 
+
+        }
+        
+    }
+    }
+      catch(Exception ex)
+      {
+        Console.WriteLine(ex.Message) ; 
+      }
+    }
+  }
+
 

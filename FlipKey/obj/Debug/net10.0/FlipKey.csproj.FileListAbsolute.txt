@@ -1,0 +1,15 @@
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.AssemblyInfoInputs.cache
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.AssemblyInfo.cs
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.sourcelink.json
+D:\.Net\TopBrains_Assignment\FlipKey\bin\Debug\net10.0\FlipKey.exe
+D:\.Net\TopBrains_Assignment\FlipKey\bin\Debug\net10.0\FlipKey.deps.json
+D:\.Net\TopBrains_Assignment\FlipKey\bin\Debug\net10.0\FlipKey.runtimeconfig.json
+D:\.Net\TopBrains_Assignment\FlipKey\bin\Debug\net10.0\FlipKey.dll
+D:\.Net\TopBrains_Assignment\FlipKey\bin\Debug\net10.0\FlipKey.pdb
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.dll
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\refint\FlipKey.dll
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.pdb
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\FlipKey.genruntimeconfig.cache
+D:\.Net\TopBrains_Assignment\FlipKey\obj\Debug\net10.0\ref\FlipKey.dll
